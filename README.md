@@ -17,6 +17,8 @@ La aplicación permite al usuario:
   - Verde: tarea completada
  
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee3e5461-2ca5-47f7-913c-3ef892d85bce" />
+<img width="1906" height="1011" alt="image" src="https://github.com/user-attachments/assets/a29eaece-2574-4af9-aa8e-5a0aef36f4e1" />
+
 
 
 La interfaz actualiza dinámicamente la lista de tareas según las acciones del usuario, proporcionando una retroalimentación visual clara.
