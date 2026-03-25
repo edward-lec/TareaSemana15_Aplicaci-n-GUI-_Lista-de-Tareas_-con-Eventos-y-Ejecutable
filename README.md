@@ -27,11 +27,17 @@ El sistema está organizado bajo una arquitectura modular por capas:
 
 lista_tareas_app/
 │
-├── main.py # Punto de entrada de la aplicación
-├── modelos/ # Definición de la clase Tarea
-├── servicios/ # Lógica de negocio
-├── ui/ # Interfaz gráfica con Tkinter
-├── dist/ # Ejecutable generado
-├── .gitignore # Configuración de exclusión de archivos
+├── main.py
+├── modelos/
+│   └── tarea.py
+├── servicios/
+│   └── tarea_servicio.py
+├── ui/
+│   └── app_tkinter.py
+├── dist/
+│   └── ListaTareas.exe
+├── .gitignore
+
+
 Autor:
 Leiber Correa Bravo
