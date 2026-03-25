@@ -15,6 +15,9 @@ La aplicación permite al usuario:
 - Visualizar el estado de cada tarea:
   - Rojo: tarea pendiente
   - Verde: tarea completada
+ 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee3e5461-2ca5-47f7-913c-3ef892d85bce" />
+
 
 La interfaz actualiza dinámicamente la lista de tareas según las acciones del usuario, proporcionando una retroalimentación visual clara.
 
